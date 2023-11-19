@@ -1,5 +1,6 @@
-#Online Banking System
-
+#
+Online Banking System
+#
 Overview:
 This C++ program implements a basic console-based online banking system. It provides essential functionalities such as creating a new account, searching for account details, depositing and withdrawing money, and displaying account information. The system uses a linked list structure to efficiently manage multiple accounts.
 
